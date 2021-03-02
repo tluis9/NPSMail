@@ -22,7 +22,7 @@
  <a href="#demonstracao">Demonstração</a> • 
  <a href="#requisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contato">Contato</a> •
+ <a href="#autor">Contato</a> •
  <a href="#licenca">Licença</a>
 </p>
 
@@ -151,7 +151,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <div id="autor">
 <h2> 🧑🏽 Autor </h2>
 
-<a href="#meulinkedin">
+<a href="https://www.linkedin.com/in/t%C3%A9rcio-lu%C3%ADs-martins-ab3992207">
  <img style="border-radius: 50%;" src="screenshots/tercio_luis.jpg" width="100px;" alt=""/>
  <br />
  <sub><b>Tércio Luís</b></sub></a> <a href="https://www.linkedin.com/in/t%C3%A9rcio-lu%C3%ADs-martins-ab3992207" title="luis">🚀</a>
@@ -159,7 +159,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Tércio Luís 👋🏽 Entre em contato!
 <br>
 
-<strong><a href="https://www.linkedin.com/in/t%C3%A9rcio-lu%C3%ADs-martins-ab3992207" style="text-decoration: normal;"> 💼 LinkedIn </a></strong> • <strong><a href="https://www.instagram.com/featurecode_/" style="text-decoration: normal;"> 📱 Instagram </a></strong> • <strong> 📨 terciolmn98@gmail.com</strong> 
+<strong><a href="https://www.linkedin.com/in/t%C3%A9rcio-lu%C3%ADs-martins-ab3992207" style="text-decoration: normal;"> 💼 LinkedIn </a></strong> • <strong><a href="https://www.instagram.com/tercioluis_/" style="text-decoration: normal;"> 📱 Instagram </a></strong> • <strong> 📨 terciolmn98@gmail.com</strong> 
 
 
 <br>
@@ -168,5 +168,10 @@ Feito com ❤️ por Tércio Luís 👋🏽 Entre em contato!
 
 
 <div id="licenca">
-<h2> 🧑🏽 Licença </h2>
+<h2> ✍🏼 Licença </h2>
 MIT Copyright 2021 Tércio Luís
+
+
+<br>
+<br>
+<br>
