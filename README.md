@@ -22,7 +22,7 @@
  <a href="#demonstracao">Demonstração</a> • 
  <a href="#requisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Contato</a> •
+ <a href="#autor">Autor</a> •
  <a href="#licenca">Licença</a>
 </p>
 
